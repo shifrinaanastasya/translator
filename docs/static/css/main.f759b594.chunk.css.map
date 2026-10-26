@@ -1,0 +1,1 @@
+{"version":3,"sources":["styles.css"],"names":[],"mappings":"AACA,WACE,WAAY,CACZ,eACF,CAEA,OACE,YACF,CAEA,OACE,eAAgB,CAChB,sBACF","file":"main.f759b594.chunk.css","sourcesContent":["\n.container {\n  margin: 20px;\n  max-width: 600px;\n}\n\n.input {\n  margin: 8px 0;\n}\n\n.title {\n  margin-top: 16px;\n  overflow-wrap: anywhere;\n}\n"]}
